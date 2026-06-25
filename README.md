@@ -14,15 +14,15 @@ Although the repository focuses on Central Asia, the observations and research q
 
 ## Research Themes
 
-Rural livelihoods
-Labor migration and remittances
-Agriculture and irrigation
-Water resources and environmental change
-Nutrition and rural health
-Gender and household decision-making
-Rural finance and financial inclusion
-Community resilience
-GIS and spatial analysis for development
+- Rural livelihoods
+- Labor migration and remittances
+- Agriculture and irrigation
+- Water resources and environmental change
+- Nutrition and rural health
+- Gender and household decision-making
+- Rural finance and financial inclusion
+- Community resilience
+- GIS and spatial analysis for development
 
 ---
 
