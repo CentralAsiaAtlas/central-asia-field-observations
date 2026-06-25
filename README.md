@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents field observations made during independent visits to Mongolia, Kyrgyzstan, and Kazakhstan between 2017 and 2025.
+This repository documents field observations recorded during repeated independent visits to Mongolia, Kyrgyzstan, and Kazakhstan between 2017 and 2025.
 
 The purpose of this repository is not to document travel experiences, but to record observations, conversations, and questions that gradually shaped my research interests in rural development, labor migration, agriculture, irrigation, water resources, environmental change, financial inclusion, and community resilience.
 
@@ -52,4 +52,4 @@ These projects build upon many of the observations documented here.
 
 ## Approach
 
-Field observations rarely provide definitive answers, but they often generate the questions that systematic research later seeks to answer. This repository documents the observations that shaped my continuing interest in rural development and international development research and provides the foundation for the GIS, remote sensing, and analytical projects presented elsewhere in this portfolio.
+Field observations rarely provide definitive answers, but they often generate the questions that systematic research later seeks to answer. This repository documents the observations that shaped my continuing interest in rural development and international development and provides the foundation for the GIS, remote sensing, and analytical projects presented elsewhere in this portfolio.
