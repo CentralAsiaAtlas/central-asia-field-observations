@@ -4,9 +4,9 @@
 
 Independent field visit to Altanbulag District, Töv Province, Mongolia, including time living with a nomadic herding family.
 
-These notes are based on observations recorded in my former travel blog, later reinterpreted as research questions.
-
----
+The observations recorded here are adapted from notes written during the visit in 2017. They have been reorganized as field 
+observations that later inspired broader questions about rural livelihoods, agriculture, environmental change, and 
+international development.
 
 ## Field Observation 01: Curiosity Preceded Research
 
