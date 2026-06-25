@@ -1,4 +1,4 @@
-# Field Observations: Central Asia
+# Field Observations: Central Asia (2017-2025)
 
 ## Overview
 
@@ -8,17 +8,21 @@ The purpose of this repository is not to document travel experiences, but to rec
 
 Many of these observations later evolved into research questions that are being explored through GIS, spatial analysis, open data, and literature review in related repositories.
 
+Although the repository focuses on Central Asia, the observations and research questions are intended to contribute to broader discussions in rural development, agriculture, migration, and international development.
+
 ---
 
 ## Research Themes
 
-* Rural livelihoods
-* Labor migration and remittances
-* Agriculture and irrigation
-* Water resources and environmental change
-* Rural finance and financial inclusion
-* Community resilience
-* GIS and spatial analysis for development
+Rural livelihoods
+Labor migration and remittances
+Agriculture and irrigation
+Water resources and environmental change
+Nutrition and rural health
+Gender and household decision-making
+Rural finance and financial inclusion
+Community resilience
+GIS and spatial analysis for development
 
 ---
 
@@ -46,8 +50,6 @@ These projects build upon many of the observations documented here.
 
 ---
 
-## Purpose
+## Approach
 
-Field observations often provide the questions that systematic research later seeks to answer.
-
-This repository documents the experiences and observations that motivated my continuing interest in rural development and international development research and provides context for the analytical projects contained elsewhere in this portfolio.
+Field observations rarely provide definitive answers, but they often generate the questions that systematic research later seeks to answer. This repository documents the observations that motivated my continuing interest in rural development and provides context for the analytical projects contained elsewhere in this portfolio.
