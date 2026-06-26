@@ -32,10 +32,9 @@ Field notes are organized chronologically and document observations from repeate
 
 Each field note follows a common structure:
 
-* Observation
-* Context
-* Research Questions
-* Future Investigation
+- Observation
+- Reflection
+- Questions
 
 The emphasis is on documenting observations that generate research questions rather than drawing conclusions. Most observations are qualitative and should be viewed as starting points for future investigation rather than research findings.
 
