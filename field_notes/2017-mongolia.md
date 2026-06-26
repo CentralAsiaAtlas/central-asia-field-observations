@@ -53,4 +53,17 @@ I realized that traditional ways of life do not necessarily disappear because pe
 * How is Mongolia preserving nomadic traditions as fewer young people enter pastoral life?
 * Did the nomads idolize or perceive city life as superior to their own?
 
-## Field Observation 03: Technology Inside Pastoral Life
+## Field Observation 3: Searching for Horses
+
+On the evening of the first day of work, I helped hobble the family's riding horses by tying three of their legs together with a traditional Mongolian "chodur." Hobbling allowed the horses to graze overnight while preventing them from wandering too far from camp. Because there were no fenced pastures and little vegetation, the horses had to roam freely to find enough to eat.
+
+The following morning, instead of beginning the day's work, we set out to search for the horses. It took nearly two hours of walking through the surrounding hills before we finally found them. One of the hobbles had come undone—or perhaps I had not secured it properly the previous evening—allowing the horses to wander much farther than usual.
+
+Until then, I had thought of horses mainly as transportation. That morning, I realized they were much more than that. Without them, the day's work simply could not begin. Finding the horses was non-negotiable. Herding livestock across the Mongolian steppe depended on having horses available and ready to ride.
+
+Coming from an engineering background, I began thinking of the horse as an essential piece of working equipment. For example, in the same way that a programmer cannot do his job without a computer, a nomad cannot do his job without a horse. It was not simply an animal—it was an essential tool of the profession.
+
+### Questions
+
+* Were alternatives to hobbling available, or was this particular technique required by the steppe environment?
+* How else have modern technologies, such as motorcycles and binoculars, simplified the daily work of nomadic herders?
