@@ -67,3 +67,19 @@ Coming from an engineering background, I began thinking of the horse as an essen
 
 * Were alternatives to hobbling available, or was this particular technique required by the steppe environment?
 * How else have modern technologies, such as motorcycles and binoculars, simplified the daily work of nomadic herders?
+
+## Field Observation 4: Livestock as Wealth and the Pastoral Economy
+
+Early in my stay with the family, I began to understand that livestock represented far more than food or transportation. Sheep and goats were the household's primary economic assets. Unlike farming communities, where wealth is often tied to land or crops, the family's income depended largely on the health and productivity of their animals.
+
+One morning, two men arrived to help harvest wool from the goats. Mongolian Cashmere seems to be in demand. The work was physically demanding and completed within a day. My host, Jurgen, appeared to compensate the workers either through wages or by sharing in the proceeds from the sale of the wool. Although I did not know the details of the arrangement, it showed that livestock production relied on both family labor and hired labor during periods of peak demand. Manual tools, similar to a three prong gardening fork, were used to "rake" the hair from the goats. 
+
+Later that day, a regional veterinarian visited the camp to inspect the herd. Young animals were identified using ear notches and painted markings on their horns. These procedures appeared to serve practical management purposes, allowing animals to be identified and monitored within large free-ranging herds. Prior to starting work at the camp I was advised that one of the worst things that could happen was to get a herd mixed into a neighboring nomads herd. It would take the whole day to sort them. 
+
+Observing these activities together changed my understanding of the pastoral economy. Income depended not only on raising livestock but also on maintaining herd health, organizing seasonal labor, and producing marketable products such as wool and cashmere. The animals functioned as the household's principal store of wealth and source of income.
+
+Questions
+How are cashmere and wool marketed once they leave remote pastoral communities?
+How much bargaining power do nomadic households have when selling to traders and middlemen?
+What role do veterinarians play in maintaining herd productivity and household income?
+How are seasonal labor arrangements organized, and how are workers compensated?
