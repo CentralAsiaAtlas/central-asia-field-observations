@@ -79,7 +79,7 @@ Later that day, a regional veterinarian visited the camp to inspect the herd. Yo
 Observing these activities together changed my understanding of the pastoral economy. Income depended not only on raising livestock but also on maintaining herd health, organizing seasonal labor, and producing marketable products such as wool and cashmere. The animals functioned as the household's principal store of wealth and source of income.
 
 Questions
-How are cashmere and wool marketed once they leave remote pastoral communities?
-How much bargaining power do nomadic households have when selling to traders and middlemen?
-What role do veterinarians play in maintaining herd productivity and household income?
-How are seasonal labor arrangements organized, and how are workers compensated?
+*How are cashmere and wool marketed once they leave remote pastoral communities?
+*How much bargaining power do nomadic households have when selling to traders and middlemen?
+*What role do veterinarians play in maintaining herd productivity and household income?
+*How are seasonal labor arrangements organized, and how are workers compensated?
