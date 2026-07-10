@@ -84,3 +84,21 @@ Observing these activities together changed my understanding of the pastoral eco
 * How much bargaining power do nomadic households have when selling to traders and middlemen?
 * What role do veterinarians play in maintaining herd productivity and household income?
 * How are seasonal labor arrangements organized, and how are workers compensated?
+
+* # Field Observation 5: Diet and Food Storage on the Steppe
+
+Meals at the camp followed a consistent routine throughout my stay. Breakfast usually consisted of a simple rice porridge. Lunch was sometimes skipped altogether, not by choice, but because we were too far from the ger and busy working with the livestock to return. The main meal came in the evening and was almost always meat-based, accompanied by rice, homemade noodles, or potatoes and carrots. The vegetables had been purchased during supply trips to Altanbulag rather than grown near the camp.
+
+The family's diet reflected their livelihood. Livestock provided not only income, but also the household's primary source of food. Agriculture played only a small role in daily life, and most non-meat foods were purchased in town and stored until needed.
+
+One thing that surprised me was the availability of electricity. Solar panels provided enough power to run lights and a refrigerator. Before arriving, I had assumed that meat would need to be consumed quickly or preserved only during the cold winter months. Instead, refrigeration allowed the family to store meat safely throughout the summer, making them less dependent on seasonal temperatures for food preservation. It was a good example of how modern technology had been incorporated into an otherwise traditional pastoral lifestyle.
+
+The meals themselves were simple, filling, and practical. Rather than emphasizing variety, they appeared to provide the energy needed for long days of herding livestock, riding horses, and working around the camp.
+
+## Questions
+
+- How has access to solar electricity changed daily life for nomadic households?
+- To what extent has refrigeration changed traditional methods of preserving meat and the timing of livestock slaughter?
+- How often do nomadic families travel to towns such as Altanbulag to purchase food and household supplies?
+- How has the Mongolian nomadic diet changed over the past several decades?
+- Does improved access to markets influence what pastoral households eat, or does livestock continue to dominate the diet?
