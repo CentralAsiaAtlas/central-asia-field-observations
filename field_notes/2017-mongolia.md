@@ -102,3 +102,24 @@ The meals themselves were simple, filling, and practical. Rather than emphasizin
 - How often do nomadic families travel to towns such as Altanbulag to purchase food and household supplies?
 - How has the Mongolian nomadic diet changed over the past several decades?
 - Does improved access to markets influence what pastoral households eat, or does livestock continue to dominate the diet?
+
+- # Field Observation 6: Environmental Change and Livestock Survival
+
+Before arriving in Mongolia, my host told me that snow would likely still cover much of the steppe. I arrived during the first week of April expecting to find a winter landscape, but there was little visible snow remaining. Although it snowed occasionally during my stay, the accumulation was light and did not remain on the ground.
+
+During conversations with my host family, they remarked that winters had become colder while summers had become hotter. I was not in a position to verify these observations, but they reflected the experiences of people whose livelihoods depended directly on weather and pasture conditions.
+
+As I spent more time working with the livestock, I began to understand why winter conditions were such a frequent topic of conversation. The horses survived the winter by pawing through snow to reach the vegetation beneath. My hosts explained that this continual digging often damaged their hooves. Unlike many other livestock, a horse that becomes lame may be unable to travel with the herd or obtain sufficient forage. Because mobility is essential to survival on the steppe, hoof injuries can eventually become fatal.
+
+I also noticed that several horses had irregular patches of missing hair. At first I assumed the animals were suffering from a skin disease or parasite. My hosts instead explained that during particularly harsh winters, when forage becomes scarce, horses sometimes chew the hair from one another. Whether this behavior provides nutritional value or simply reflects nutritional stress, it illustrated another way in which environmental conditions influence livestock behavior.
+
+Winter survival also depended on more than natural grazing alone. The household stored hay and purchased supplemental feed for horses, sheep, and goats to help sustain the animals until pasture conditions improved. This reminded me that even highly extensive pastoral systems rely on outside inputs when natural forage becomes insufficient.
+
+I left Mongolia realizing that the success of a pastoral household depends not only on herd management but also on the ability to adapt to environmental variability. The resilience of the herd appeared to depend as much on weather and winter conditions as on the skill of the herders themselves.
+
+## Questions
+
+- How have Mongolian herders' perceptions of climate change compared with long-term meteorological records?
+- Has the use of supplemental feed increased over the past several decades?
+- How have changing winter conditions affected livestock mortality and household income?
+- What adaptations have pastoral households adopted in response to increasingly variable weather?
